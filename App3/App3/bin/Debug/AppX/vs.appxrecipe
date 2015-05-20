@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ELENA</Machine>
+    <WindowsUser>Elena</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cefb09d3-bed0-4723-8b1f-0811de551262</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0DB7B918A2D5F637071EBB7F50BDB86B52E25AC5B871D2E576F73FB52B626F5D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cefb09d3-bed0-4723-8b1f-0811de551262_1.0.0.0_neutral__ry0jxfjty95z4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cefb09d3-bed0-4723-8b1f-0811de551262_ry0jxfjty95z4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cefb09d3-bed0-4723-8b1f-0811de551262</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Elena</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-20T07:50:23.484</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+      <Modified>2015-05-20T08:26:18.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-20T07:50:20.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-20T08:26:18.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\bin\Debug\App3.xr.xml">
+      <PackagePath>App3.xr.xml</PackagePath>
+      <Modified>2015-05-20T08:13:41.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Elena\documents\visual studio 2013\Projects\App3\App3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-20T07:50:22.299</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
